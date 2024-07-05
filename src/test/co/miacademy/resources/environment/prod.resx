@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="url" xml:space="preserve">
+    <value>https://miacademy.co/#/</value>
+  </data>
+  <data name="browser" xml:space="preserve">
+    <value>CHROME</value>
+  </data>
+  <data name="grid.url" xml:space="preserve">
+    <value>http://192.168.31.121:4444</value>
+  </data>
+  <data name="saucelabs.url" xml:space="preserve">
+    <value>https://oauth-qwertofa-8ff0f:032d909a-8269-4de8-8237-a8fe33080794@ondemand.eu-central-1.saucelabs.com:443/wd/hub</value>
+  </data>
+</root>
